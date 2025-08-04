@@ -1,0 +1,18 @@
+﻿@model Training
+@{
+    var employees = (List<Employee>)ViewBag.Employees;
+}
+
+<h3>Training Details</h3>
+<p><strong>Date:</strong> @Model.TrainingDate.ToShortDateString()</p>
+<p><strong>Place:</strong> @Model.Place</p>
+<p><strong>Purpose:</strong> @Model.Purpose</p>
+<p><strong>Organization:</strong> @Model.Organization?.Name</p>
+
+<h4>Assigned Employees</h4>
+<ul>
+    @foreach (var emp in employees)
+    {
+        <li>@emp.Name</li>
+    }
+</ul>
