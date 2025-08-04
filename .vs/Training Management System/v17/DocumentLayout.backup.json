@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\viewmodel\\trainingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\viewmodel\\trainingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\helpers\\datevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\helpers\\datevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Models\\TrainingDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training Management System\\Models\\TrainingDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\training management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\training management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|c:\\users\\abcom\\desktop\\test\\training management system\\training management system\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E6C732-5AEB-470B-8824-1DDC6F86DB66}|Training Management System\\Training Management System.csproj|solutionrelative:training management system\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training Management System\\Views\\Training\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Index.cshtml",
+              "RelativeToolTip": "Training Management System\\Views\\Training\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T05:58:03.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training Management System\\Views\\Training\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Create.cshtml",
+              "RelativeToolTip": "Training Management System\\Views\\Training\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T05:57:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "Training Management System\\Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "Training Management System\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:56:20.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "Training Management System\\Models\\Training.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Models\\Training.cs",
+              "RelativeToolTip": "Training Management System\\Models\\Training.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:55:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\ViewModel\\TrainingViewModel.cs",
+              "RelativeDocumentMoniker": "Training Management System\\ViewModel\\TrainingViewModel.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\ViewModel\\TrainingViewModel.cs",
+              "RelativeToolTip": "Training Management System\\ViewModel\\TrainingViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:55:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Training Management System",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Training Management System.csproj",
+              "RelativeDocumentMoniker": "Training Management System\\Training Management System.csproj",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Training Management System.csproj",
+              "RelativeToolTip": "Training Management System\\Training Management System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T05:54:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Training Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Program.cs",
+              "RelativeToolTip": "Training Management System\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:52:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Training Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\appsettings.json",
+              "RelativeToolTip": "Training Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T05:53:03.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Details.cshtml",
+              "RelativeDocumentMoniker": "Training Management System\\Views\\Training\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Views\\Training\\Details.cshtml",
+              "RelativeToolTip": "Training Management System\\Views\\Training\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T05:58:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Helpers\\DateValidator.cs",
+              "RelativeDocumentMoniker": "Training Management System\\Helpers\\DateValidator.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Helpers\\DateValidator.cs",
+              "RelativeToolTip": "Training Management System\\Helpers\\DateValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:59:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Models\\TrainingDbContext.cs",
+              "RelativeDocumentMoniker": "Training Management System\\Models\\TrainingDbContext.cs",
+              "ToolTip": "C:\\Users\\Abcom\\Desktop\\Test\\Training Management System\\Training Management System\\Models\\TrainingDbContext.cs",
+              "RelativeToolTip": "Training Management System\\Models\\TrainingDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:53:56.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
