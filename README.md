@@ -23,3 +23,31 @@ This project is a Training Management System using ASP.NET Core MVC and Entity F
 ## Database
 Use the SQL schema from the `/Docs` folder or run the script in `Program.cs` to generate the database.
 
+CREATE TABLE Organization (
+    OrganizationId INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Employee (
+    EmployeeId INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+    OrganizationId INT FOREIGN KEY REFERENCES Organization(OrganizationId)
+);
+
+CREATE TABLE Training (
+    TrainingId INT PRIMARY KEY IDENTITY,
+    OrganizationId INT NOT NULL,
+    TrainingDate DATE NOT NULL,
+    Place NVARCHAR(100),
+    Purpose NVARCHAR(200)
+);
+
+CREATE TABLE TrainingEmployee (
+    TrainingEmployeeId INT PRIMARY KEY IDENTITY,
+    TrainingId INT FOREIGN KEY REFERENCES Training(TrainingId),
+    EmployeeId INT FOREIGN KEY REFERENCES Employee(EmployeeId)
+);
+
+CREATE UNIQUE INDEX UX_Employee_TrainingDate 
+ON TrainingEmployee(EmployeeId, TrainingId);
+
